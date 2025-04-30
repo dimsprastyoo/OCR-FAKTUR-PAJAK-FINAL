@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ocr-faktur-pajak",
+  "private_key_id": "011f0ca606a7d3318edf7d68b87e001e56679d68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuQ6PpjRu/Swrz\nlz9m0VQFiwLKedHFZms8YwFnxKIbyLKxodbX8vV5cEJ+Ydp9pgYCPwzYtUDncUb8\nGpYAizVSuuvH1gd+O2bFutb4aIwzAtRwg3YM+tQVJE+QlCDWlbA1KVp1Khfyz0fB\nbo39bvBKN3WUlEv/SmQlh3bpLiHIjaWbe0bJDD0lwB5V4VT6Mo910/TptYOz12A5\nS1pgu65Lw81DzOEMCgB+zHDsBu0eX0F1nrlVEbFc1J6u+TF48pHRApFWYt5jK7xh\n+FpfB5KMTu2xEURXO6qMAbv3enTdxTm9Fe7QYTKnHCOk5Limt6vSmcQB3+o1PFvx\nGR4+6ygtAgMBAAECggEAA3g2SxVI+vngBHHmTGzuMCll4KkkljplTS+oHKxLZqPh\nfEGSzlGN4KFDDv1yGl6pWkxuEYx+TSgHYp1Bj6OLPWlE/iwSkclV+6mDfoZPsEj7\nTigtPAdBx2VQg4+SHc5KKAIkRRaVoSXOXG66kKlaSxKn79GKDSb/2nLELn1Wz9rg\nXyO+gP4qG/iIcmNUmdZ+EDae6XeS9VouhbLGAHQ2LfT3SRwfATCguXcp7qC5fhMr\nkjCcff+ACwol6ORFGjq0DYtghQyr0Gexbzo+tTViAson0goYP/1lp5JTQa+7XRZQ\nRp1qF4tg7qrQOXcgvKznEBSaBkdnOlwrGxN9nLzHowKBgQDaKVixWFMTipV1oPX9\n19AiYLrsMXPkqIYLDIQM40xYBNRtEgBhpZdAJm0Gq8xwXk66EZ2VYWkLhpIyycfV\nGDS55t0KGrJ+S2n0IYMB8FsGoXlTswbYEx+RLeiOpplPHiXPQnHzeW+E7UmjIqi3\nhEaDanz61RqwfbIZ26HCEAXS4wKBgQDMfTKDPvSGFbogGyWtbS5r5cds9Rye5SnK\npy2UEzg2jwpWZxVtMPWhGXL9NUa5zkoVRB6yf2phhWPh5eB/XaxcCP7VM6xINSbi\n2gKVuCF3tU5nCrY7VPQc1v2DxQdDvHtHHONYLhN+bye0N2pdUZllbR2l6olaM2Qr\nq3hWOE01rwKBgQCUxn+Sqa419FtKlZNMIiHxX8/5hRwIwphu7oEbHOMSX3DSVOVn\nsfp8p/fQBdbshpPftmWl2oE9d+85rXuWqeRDJtp0qpIxKJLABx6FcvlQg0vvNXak\nYh4z7n/a0GhamS+lsSVuqdDQcNW358nxJMbFlhhXIn8J/x43Hh2o7y5ZiwKBgEkM\nFCZEL+9SBZoAeJYaIXITtAidCqtMK4Cj9akmsHb04/l3e3T0/1mcELKY/HnVUiuE\nmP6ke2j40HRavLZizPZXlEiu28Uzj3+L5056ZyIvFyHB9tT9BPLkbc1LbcvpoZQG\nosPWOcp5hJJhFVLemlBcCTJCtOwO3aKn7yXFmPcrAoGAYDnRS6OmRuyZyjWRNFaT\np0ZIGnI2WOMei1tCpFaoN13b9h/nv5MCPpR+4Kmhx7V6LBwh27pVFb7BgCdt0Quy\nScgechzEWXw8o82Dv1xRJ9DvOJQgskKnePuiIOBtj3qFeF7Ue3Y0Qhf85JM1nZg1\nkMoEw1DoBEY6gRT1imaBen8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocr-service-account@ocr-faktur-pajak.iam.gserviceaccount.com",
+  "client_id": "114343799400818193058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-service-account%40ocr-faktur-pajak.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
